@@ -1,0 +1,13 @@
+{
+  "check_interval": 5,
+  "selected_targets": ["Google", "GitHub", "Cloudflare"],
+  "timeout_s": 3,
+  "failure_count": 3,
+  "recovery_count": 2,
+  "good_ms": 150,
+  "high_ms": 300,
+  "very_high_ms": 500,
+  "notification_cooldown_s": 600,
+  "notifications": true,
+  "sound": true
+}
